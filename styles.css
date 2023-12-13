@@ -1,5 +1,13 @@
 body {
-    margin: 25px 100px 100px 200px;
-    background: pink;
+    margin: 0;
+    background: darkslategray;
     text-align: center;
+}
+h1{
+    color: whitesmoke;
+    margin-top: 50px;
+}
+p{
+    margin: 100px 100px 100px 200px;
+    color: whitesmoke;
 }
